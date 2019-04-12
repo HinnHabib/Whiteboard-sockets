@@ -1,3 +1,4 @@
 # Whiteboard-sockets
+A simple collaborative whiteboard for socket.io
 
-The purpose of this exercise is to create a shared drawing board using websocket
+Draw on the whiteboard and all other users will see you drawings live

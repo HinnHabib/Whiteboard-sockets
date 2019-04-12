@@ -60,7 +60,7 @@ html, body {
 }
 
 #drawCanvas:hover, #drawCanvas:active {
-    cursor: url("cursor(1).cur"), pointer;
+    cursor: url("cursor.cur"), pointer;
 }
 
 #colorSwatch {

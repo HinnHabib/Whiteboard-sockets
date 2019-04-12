@@ -55,7 +55,8 @@ let canvasPage = `
 </div>
 `;
 
-function submitUsername(e) {
+function submitUsername(event) {
+    const e = event || window.event;
     e.preventDefault();
 
     if (event.target.name.value !== "") {
